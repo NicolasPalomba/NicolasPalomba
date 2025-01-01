@@ -1,8 +1,9 @@
-## Hello there 👋
+## About me ❓ 
+
+From Argentina 🇦🇷
 
 
-
-- 🔭 Trabajando en mejorar mis habilidades tecnológicas.
-- 🌱 Actualmente me encuentro aprendiendo Phyton.
-- 👯 Me encantaria colaborar en cualquier proyecto que me haga aprender.
+- 🔭 I am actively working on refining my development skills to stay updated with industry standards.
+- 🌱 At the moment, I am concentrating on expanding my knowledge of Python to enhance my programming skills.
+- 👯 I am eager to collaborate on projects that can help me gain valuable experience.
 
